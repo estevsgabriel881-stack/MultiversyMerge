@@ -273,7 +273,7 @@
     </script>
 
     <button class="btn-voltar" onclick="location.href='index.html'">⬅ Voltar ao Perfil</button>
-    <p>Você saiu da plataforma principal para entrar no Big Bang.</p>
+    
 
 
 
